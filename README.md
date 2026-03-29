@@ -24,8 +24,10 @@
 ---
 
 ## 📌 Projetos
-🚧 Em construção...  
-(Em breve projetos aqui)
+### 🛒 Lista de Compras
+🛠️ HTML | CSS | JavaScript  
+🔗 https://github.com/seu-usuario/lista-de-compras  
+📝 Aplicação simples para adicionar, remover e organizar itens de uma lista de compras.
 
 ---
 
