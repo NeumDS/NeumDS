@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Fala aí, eu sou o Davi
 
-<!--
-**NeumDS/NeumDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em evolução  
+💼 Trabalhando cedo e construindo meu próprio caminho  
+🚀 Focado em aprender, crescer e conquistar independência  
+🌍 Objetivo: evoluir na área e buscar oportunidades maiores  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+- 🎯 Focado em melhorar todos os dias
+- 📚 Aprendendo programação na prática
+- ⚡ Disciplina acima de motivação
+- 💭 Pensando grande (Brasil e fora dele)
+
+---
+
+## 🛠️ Tecnologias que estou aprendendo
+- HTML  
+- CSS  
+- JavaScript
+- Java
+
+---
+
+## 📌 Projetos
+🚧 Em construção...  
+(Em breve projetos aqui)
+
+---
+
+## 📊 Status
+🔥 Começando minha jornada na programação  
+🚀 Evoluindo um pouco todos os dias 
+👨‍🎓 Cursando o curso Jovem Programador 2026 (SENAC Florianópolis)
+
+---
+
+## 📫 Contato
+- Instagram: https://www.instagram.com/davi.jjb/?next=%2F
+- Email: dneumannsoares@gmail.com
